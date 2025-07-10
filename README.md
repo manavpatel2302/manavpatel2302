@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manavpatel2302
-- 👀 I’m interested in web delovpment
-- 🌱 I’m currently learning js 
+- 👀 I’m interested in web delovpment, ai framework,data analyst/scientist
+- 🌱 I’m currently learning ai, ml, ds, da
 - 💞️ I’m looking to collaborate on instagram,youtube
 - 📫 How to reach me ...
 
